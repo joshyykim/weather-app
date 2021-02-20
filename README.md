@@ -1,2 +1,2 @@
-# foking-weather
-Learning React Native by building faking-weather
+# fokin-weather
+Learning React Native by building fokin-weather
